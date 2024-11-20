@@ -1,0 +1,80 @@
+[
+  {
+  "id": 11,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/pexels-scottwebb-137603.jpg"
+},
+
+{
+  "id": 12,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/fray.jpg"
+},
+{
+  "id": 13,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/thomas.jpg"
+},
+
+{
+  "id": 14,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/monicore.jpg"
+},
+
+{
+  "id": 15,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/pex.jpg"
+},
+
+{
+  "id": 16,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/solli.jpg"
+},
+
+{
+  "id": 17,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/alexandra.jpg"
+},
+
+{
+  "id": 16,
+  "Product": "UGG Classic Short",
+  "Category": "Boots",
+  "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
+  "Price": "$159.99",
+  "Ratings": "4.3",
+  "image": "images/engin.jpg"
+}
+]
