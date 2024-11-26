@@ -1,7 +1,7 @@
 **E-Commerce Product Page**
 --------------------------------
 
-Access my portfolio using this link [PortFolio](https://rajput3006.github.io/Ecommerce-product-page/).
+Access my portfolio using this link [E-Commerce Product Page](https://rajput3006.github.io/Ecommerce-product-page/).
 
 ##Overview
 -----------
@@ -45,6 +45,7 @@ git clone https://github.com/rajput3006/Ecommerce-product-page.g
 Or use a local server (e.g., Live Server for Visual Studio Code) for better performance.
 
 ##License
+-------------
 This project is licensed under the MIT License. See the LICENSE file for detail
 
 
