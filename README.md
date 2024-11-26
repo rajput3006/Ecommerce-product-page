@@ -1,0 +1,39 @@
+E-Commerce Product Page
+This project is an interactive and responsive eCommerce Product Page built using HTML, CSS, and JavaScript. 
+
+Features
+Responsive Design: Fully responsive layout for mobile, tablet, and desktop views.
+Product Display: Displays product images, descriptions, pricing, and other details.
+Interactive UI: Animations and transitions for a modern look and feel.
+
+Technologies Used
+HTML5: Structure of the webpage.
+CSS3: Styling and layout (Flexbox, Grid, animations).
+JavaScript (ES6+): Functionality and interactivity.
+Installation and Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/rajput3006/Ecommerce-product-page.git
+cd ecommerce-product-page
+Open the index.html file in your browser:
+
+bash
+Copy code
+open index.html
+Or use a local server (e.g., Live Server for Visual Studio Code) for better performance.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for detail
+
+
+
+
+
+
+
+
+
+
+
