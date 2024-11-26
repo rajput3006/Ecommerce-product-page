@@ -1,5 +1,7 @@
-##**E-Commerce Product Page**
+**E-Commerce Product Page**
+
 Access my portfolio using this link [PortFolio](https://rajput3006.github.io/Ecommerce-product-page/).
+
 ##Overview
 This project is an interactive and responsive eCommerce Product Page built using HTML, CSS, and JavaScript. 
 
